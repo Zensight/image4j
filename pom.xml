@@ -9,6 +9,15 @@
         <name>image4j</name>
         <version>0.7zensight1</version>
 
+        <distributionManagement>
+          <repository>
+            <id>clojars</id>
+            <name>Clojars repository</name>
+            <url>https://clojars.org/repo</url>
+          </repository>
+        </distributionManagement>
+
+
         <properties>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
